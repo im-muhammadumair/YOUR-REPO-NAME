@@ -1,0 +1,722 @@
+{
+  "EMP001": {
+    "profiles": {
+      "employee_id": "EMP001",
+      "employee_number": "10001",
+      "first_name": "Muhammed",
+      "last_name": "Umair",
+      "department_id": "DEPT-IT",
+      "department": "Information Technology",
+      "job_title": "Software Engineer",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-01-15"
+    },
+    "contacts": {
+      "email": "ali.raza@company.com",
+      "phone": "+92-300-1111111",
+      "extension": "204"
+    },
+    "locations": {
+      "floor": 2,
+      "desk_number": "IT-24",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP002": {
+    "profiles": {
+      "employee_id": "EMP002",
+      "employee_number": "10002",
+      "first_name": "Ahmed",
+      "last_name": "Khan",
+      "department_id": "DEPT-HR",
+      "department": "Human Resources",
+      "job_title": "HR Officer",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-08-10"
+    },
+    "contacts": {
+      "email": "ahmed.khan@company.com",
+      "phone": "+92-300-2222222",
+      "extension": "205"
+    },
+    "locations": {
+      "floor": 1,
+      "desk_number": "HR-12",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP003": {
+    "profiles": {
+      "employee_id": "EMP003",
+      "employee_number": "10003",
+      "first_name": "Saria",
+      "last_name": "Sajid",
+      "department_id": "DEPT-FIN",
+      "department": "Finance",
+      "job_title": "Accountant",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-03-01"
+    },
+    "contacts": {
+      "email": "sara.malik@company.com",
+      "phone": "+92-300-3333333",
+      "extension": "206"
+    },
+    "locations": {
+      "floor": 2,
+      "desk_number": "FIN-18",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP004": {
+    "profiles": {
+      "employee_id": "EMP004",
+      "employee_number": "10004",
+      "first_name": "Usman",
+      "last_name": "Rana",
+      "department_id": "DEPT-MKT",
+      "department": "Marketing",
+      "job_title": "Marketing Specialist",
+      "employment_type": "Part-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-06-30"
+    },
+    "contacts": {
+      "email": "usman.rana@company.com",
+      "phone": "+92-380-9586960",
+      "extension": "204"
+    },
+    "locations": {
+      "floor": 4,
+      "desk_number": "MKT-01",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP005": {
+    "profiles": {
+      "employee_id": "EMP005",
+      "employee_number": "10005",
+      "first_name": "Hina",
+      "last_name": "Rafiq",
+      "department_id": "DEPT-SLS",
+      "department": "Sales",
+      "job_title": "Sales Executive",
+      "employment_type": "Contract",
+      "employment_status": "Active",
+      "joining_date": "2025-05-26"
+    },
+    "contacts": {
+      "email": "hina.rafiq@company.com",
+      "phone": "+92-300-2354318",
+      "extension": "205"
+    },
+    "locations": {
+      "floor": 1,
+      "desk_number": "SLS-02",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP006": {
+    "profiles": {
+      "employee_id": "EMP006",
+      "employee_number": "10006",
+      "first_name": "Bilal",
+      "last_name": "Shah",
+      "department_id": "DEPT-OPS",
+      "department": "Operations",
+      "job_title": "Operations Coordinator",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-11-13"
+    },
+    "contacts": {
+      "email": "bilal.shah@company.com",
+      "phone": "+92-350-7314012",
+      "extension": "206"
+    },
+    "locations": {
+      "floor": 2,
+      "desk_number": "OPS-03",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP007": {
+    "profiles": {
+      "employee_id": "EMP007",
+      "employee_number": "10007",
+      "first_name": "Ayesha",
+      "last_name": "Awan",
+      "department_id": "DEPT-ADM",
+      "department": "Administration",
+      "job_title": "Admin Officer",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-10-13"
+    },
+    "contacts": {
+      "email": "ayesha.awan@company.com",
+      "phone": "+92-300-7188185",
+      "extension": "207"
+    },
+    "locations": {
+      "floor": 3,
+      "desk_number": "ADM-04",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP008": {
+    "profiles": {
+      "employee_id": "EMP008",
+      "employee_number": "10008",
+      "first_name": "Farhan",
+      "last_name": "Javed",
+      "department_id": "DEPT-CS",
+      "department": "Customer Support",
+      "job_title": "Support Agent",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-07-16"
+    },
+    "contacts": {
+      "email": "farhan.javed@company.com",
+      "phone": "+92-380-5339316",
+      "extension": "208"
+    },
+    "locations": {
+      "floor": 4,
+      "desk_number": "CS-05",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP009": {
+    "profiles": {
+      "employee_id": "EMP009",
+      "employee_number": "10009",
+      "first_name": "Rabia",
+      "last_name": "Tariq",
+      "department_id": "DEPT-PRD",
+      "department": "Product",
+      "job_title": "Product Manager",
+      "employment_type": "Part-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-08-18"
+    },
+    "contacts": {
+      "email": "rabia.tariq@company.com",
+      "phone": "+92-310-8204296",
+      "extension": "209"
+    },
+    "locations": {
+      "floor": 1,
+      "desk_number": "PRD-06",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP010": {
+    "profiles": {
+      "employee_id": "EMP010",
+      "employee_number": "10010",
+      "first_name": "Hamza",
+      "last_name": "Khan",
+      "department_id": "DEPT-LGL",
+      "department": "Legal",
+      "job_title": "Legal Advisor",
+      "employment_type": "Contract",
+      "employment_status": "Active",
+      "joining_date": "2025-09-25"
+    },
+    "contacts": {
+      "email": "hamza.khan@company.com",
+      "phone": "+92-340-9420478",
+      "extension": "210"
+    },
+    "locations": {
+      "floor": 2,
+      "desk_number": "LGL-07",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP011": {
+    "profiles": {
+      "employee_id": "EMP011",
+      "employee_number": "10011",
+      "first_name": "Maryam",
+      "last_name": "Sheikh",
+      "department_id": "DEPT-IT",
+      "department": "Information Technology",
+      "job_title": "DevOps Engineer",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-11-02"
+    },
+    "contacts": {
+      "email": "maryam.sheikh@company.com",
+      "phone": "+92-380-9212741",
+      "extension": "211"
+    },
+    "locations": {
+      "floor": 3,
+      "desk_number": "IT-08",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP012": {
+    "profiles": {
+      "employee_id": "EMP012",
+      "employee_number": "10012",
+      "first_name": "Zain",
+      "last_name": "Siddiqui",
+      "department_id": "DEPT-HR",
+      "department": "Human Resources",
+      "job_title": "HR Manager",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-04-04"
+    },
+    "contacts": {
+      "email": "zain.siddiqui@company.com",
+      "phone": "+92-340-6312624",
+      "extension": "212"
+    },
+    "locations": {
+      "floor": 4,
+      "desk_number": "HR-09",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP013": {
+    "profiles": {
+      "employee_id": "EMP013",
+      "employee_number": "10013",
+      "first_name": "Nadia",
+      "last_name": "Aslam",
+      "department_id": "DEPT-FIN",
+      "department": "Finance",
+      "job_title": "Finance Analyst",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-05-10"
+    },
+    "contacts": {
+      "email": "nadia.aslam@company.com",
+      "phone": "+92-370-2078693",
+      "extension": "213"
+    },
+    "locations": {
+      "floor": 1,
+      "desk_number": "FIN-10",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP014": {
+    "profiles": {
+      "employee_id": "EMP014",
+      "employee_number": "10014",
+      "first_name": "Tahir",
+      "last_name": "Yousaf",
+      "department_id": "DEPT-MKT",
+      "department": "Marketing",
+      "job_title": "Content Writer",
+      "employment_type": "Part-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-03-01"
+    },
+    "contacts": {
+      "email": "tahir.yousaf@company.com",
+      "phone": "+92-390-2393608",
+      "extension": "214"
+    },
+    "locations": {
+      "floor": 2,
+      "desk_number": "MKT-11",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP015": {
+    "profiles": {
+      "employee_id": "EMP015",
+      "employee_number": "10015",
+      "first_name": "Sana",
+      "last_name": "Hussain",
+      "department_id": "DEPT-SLS",
+      "department": "Sales",
+      "job_title": "Business Development Manager",
+      "employment_type": "Contract",
+      "employment_status": "Active",
+      "joining_date": "2025-01-15"
+    },
+    "contacts": {
+      "email": "sana.hussain@company.com",
+      "phone": "+92-390-9254204",
+      "extension": "215"
+    },
+    "locations": {
+      "floor": 3,
+      "desk_number": "SLS-12",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP016": {
+    "profiles": {
+      "employee_id": "EMP016",
+      "employee_number": "10016",
+      "first_name": "Omar",
+      "last_name": "Butt",
+      "department_id": "DEPT-OPS",
+      "department": "Operations",
+      "job_title": "Supply Chain Analyst",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2026-01-14"
+    },
+    "contacts": {
+      "email": "omar.butt@company.com",
+      "phone": "+92-320-6133900",
+      "extension": "216"
+    },
+    "locations": {
+      "floor": 4,
+      "desk_number": "OPS-13",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP017": {
+    "profiles": {
+      "employee_id": "EMP017",
+      "employee_number": "10017",
+      "first_name": "Iqra",
+      "last_name": "Akhtar",
+      "department_id": "DEPT-ADM",
+      "department": "Administration",
+      "job_title": "Office Manager",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-04-22"
+    },
+    "contacts": {
+      "email": "iqra.akhtar@company.com",
+      "phone": "+92-350-6929115",
+      "extension": "217"
+    },
+    "locations": {
+      "floor": 1,
+      "desk_number": "ADM-14",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP018": {
+    "profiles": {
+      "employee_id": "EMP018",
+      "employee_number": "10018",
+      "first_name": "Salman",
+      "last_name": "Zaidi",
+      "department_id": "DEPT-CS",
+      "department": "Customer Support",
+      "job_title": "Support Lead",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-11-24"
+    },
+    "contacts": {
+      "email": "salman.zaidi@company.com",
+      "phone": "+92-320-3581855",
+      "extension": "218"
+    },
+    "locations": {
+      "floor": 2,
+      "desk_number": "CS-15",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP019": {
+    "profiles": {
+      "employee_id": "EMP019",
+      "employee_number": "10019",
+      "first_name": "Mahnoor",
+      "last_name": "Malik",
+      "department_id": "DEPT-PRD",
+      "department": "Product",
+      "job_title": "Product Analyst",
+      "employment_type": "Part-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-09-17"
+    },
+    "contacts": {
+      "email": "mahnoor.malik@company.com",
+      "phone": "+92-320-1758944",
+      "extension": "219"
+    },
+    "locations": {
+      "floor": 3,
+      "desk_number": "PRD-16",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP020": {
+    "profiles": {
+      "employee_id": "EMP020",
+      "employee_number": "10020",
+      "first_name": "Waleed",
+      "last_name": "Baig",
+      "department_id": "DEPT-LGL",
+      "department": "Legal",
+      "job_title": "Compliance Officer",
+      "employment_type": "Contract",
+      "employment_status": "Active",
+      "joining_date": "2025-08-12"
+    },
+    "contacts": {
+      "email": "waleed.baig@company.com",
+      "phone": "+92-320-4120649",
+      "extension": "220"
+    },
+    "locations": {
+      "floor": 4,
+      "desk_number": "LGL-17",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP021": {
+    "profiles": {
+      "employee_id": "EMP021",
+      "employee_number": "10021",
+      "first_name": "Nimra",
+      "last_name": "Farooq",
+      "department_id": "DEPT-IT",
+      "department": "Information Technology",
+      "job_title": "Systems Admin",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-06-19"
+    },
+    "contacts": {
+      "email": "nimra.farooq@company.com",
+      "phone": "+92-360-5826306",
+      "extension": "221"
+    },
+    "locations": {
+      "floor": 1,
+      "desk_number": "IT-18",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP022": {
+    "profiles": {
+      "employee_id": "EMP022",
+      "employee_number": "10022",
+      "first_name": "Danish",
+      "last_name": "Gill",
+      "department_id": "DEPT-HR",
+      "department": "Human Resources",
+      "job_title": "Recruiter",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-10-23"
+    },
+    "contacts": {
+      "email": "danish.gill@company.com",
+      "phone": "+92-310-8618762",
+      "extension": "222"
+    },
+    "locations": {
+      "floor": 2,
+      "desk_number": "HR-19",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP023": {
+    "profiles": {
+      "employee_id": "EMP023",
+      "employee_number": "10023",
+      "first_name": "Areej",
+      "last_name": "Anwar",
+      "department_id": "DEPT-FIN",
+      "department": "Finance",
+      "job_title": "Payroll Officer",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-09-27"
+    },
+    "contacts": {
+      "email": "areej.anwar@company.com",
+      "phone": "+92-390-4632979",
+      "extension": "223"
+    },
+    "locations": {
+      "floor": 3,
+      "desk_number": "FIN-20",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP024": {
+    "profiles": {
+      "employee_id": "EMP024",
+      "employee_number": "10024",
+      "first_name": "Shahzaib",
+      "last_name": "Iqbal",
+      "department_id": "DEPT-MKT",
+      "department": "Marketing",
+      "job_title": "SEO Analyst",
+      "employment_type": "Part-Time",
+      "employment_status": "Active",
+      "joining_date": "2026-01-16"
+    },
+    "contacts": {
+      "email": "shahzaib.iqbal@company.com",
+      "phone": "+92-320-2702144",
+      "extension": "224"
+    },
+    "locations": {
+      "floor": 4,
+      "desk_number": "MKT-21",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP025": {
+    "profiles": {
+      "employee_id": "EMP025",
+      "employee_number": "10025",
+      "first_name": "Hira",
+      "last_name": "Chaudhry",
+      "department_id": "DEPT-SLS",
+      "department": "Sales",
+      "job_title": "Account Manager",
+      "employment_type": "Contract",
+      "employment_status": "Active",
+      "joining_date": "2025-01-16"
+    },
+    "contacts": {
+      "email": "hira.chaudhry@company.com",
+      "phone": "+92-390-2072316",
+      "extension": "225"
+    },
+    "locations": {
+      "floor": 1,
+      "desk_number": "SLS-22",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP026": {
+    "profiles": {
+      "employee_id": "EMP026",
+      "employee_number": "10026",
+      "first_name": "Muhammed",
+      "last_name": "Abbas",
+      "department_id": "DEPT-OPS",
+      "department": "Operations",
+      "job_title": "Logistics Officer",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-06-07"
+    },
+    "contacts": {
+      "email": "muhammed.abbas@company.com",
+      "phone": "+92-300-6199572",
+      "extension": "226"
+    },
+    "locations": {
+      "floor": 2,
+      "desk_number": "OPS-23",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP027": {
+    "profiles": {
+      "employee_id": "EMP027",
+      "employee_number": "10027",
+      "first_name": "Anum",
+      "last_name": "Haider",
+      "department_id": "DEPT-ADM",
+      "department": "Administration",
+      "job_title": "Receptionist",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-12-31"
+    },
+    "contacts": {
+      "email": "anum.haider@company.com",
+      "phone": "+92-390-1637716",
+      "extension": "227"
+    },
+    "locations": {
+      "floor": 3,
+      "desk_number": "ADM-24",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP028": {
+    "profiles": {
+      "employee_id": "EMP028",
+      "employee_number": "10028",
+      "first_name": "Kashif",
+      "last_name": "Ahmed",
+      "department_id": "DEPT-CS",
+      "department": "Customer Support",
+      "job_title": "Customer Success Manager",
+      "employment_type": "Full-Time",
+      "employment_status": "Active",
+      "joining_date": "2024-11-13"
+    },
+    "contacts": {
+      "email": "kashif.ahmed@company.com",
+      "phone": "+92-340-6978022",
+      "extension": "228"
+    },
+    "locations": {
+      "floor": 4,
+      "desk_number": "CS-25",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP029": {
+    "profiles": {
+      "employee_id": "EMP029",
+      "employee_number": "10029",
+      "first_name": "Amna",
+      "last_name": "Qureshi",
+      "department_id": "DEPT-PRD",
+      "department": "Product",
+      "job_title": "UX Designer",
+      "employment_type": "Part-Time",
+      "employment_status": "Active",
+      "joining_date": "2025-01-21"
+    },
+    "contacts": {
+      "email": "amna.qureshi@company.com",
+      "phone": "+92-300-6745925",
+      "extension": "229"
+    },
+    "locations": {
+      "floor": 1,
+      "desk_number": "PRD-26",
+      "seat_status": "Assigned"
+    }
+  },
+  "EMP030": {
+    "profiles": {
+      "employee_id": "EMP030",
+      "employee_number": "10030",
+      "first_name": "Yasir",
+      "last_name": "Hashmi",
+      "department_id": "DEPT-LGL",
+      "department": "Legal",
+      "job_title": "Paralegal",
+      "employment_type": "Contract",
+      "employment_status": "Active",
+      "joining_date": "2025-02-26"
+    },
+    "contacts": {
+      "email": "yasir.hashmi@company.com",
+      "phone": "+92-340-1483086",
+      "extension": "230"
+    },
+    "locations": {
+      "floor": 2,
+      "desk_number": "LGL-27",
+      "seat_status": "Assigned"
+    }
+  }
+}

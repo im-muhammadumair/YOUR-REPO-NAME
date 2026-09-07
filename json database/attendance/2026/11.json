@@ -1,0 +1,6456 @@
+{
+  "year": 2026,
+  "month": 11,
+  "records": [
+    {
+      "employee_id": "EMP001",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:51",
+          "check_out": "18:06",
+          "status": "Present",
+          "working_hours": 9.25
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:52",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:56",
+          "check_out": "18:05",
+          "status": "Present",
+          "working_hours": 9.15
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:50",
+          "check_out": "17:23",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:58",
+          "check_out": "17:09",
+          "status": "Present",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:51",
+          "check_out": "17:30",
+          "status": "Present",
+          "working_hours": 8.65
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:54",
+          "check_out": "17:09",
+          "status": "Present",
+          "working_hours": 8.25
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:57",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:54",
+          "check_out": "18:14",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:56",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:56",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.53
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:50",
+          "check_out": "17:10",
+          "status": "Present",
+          "working_hours": 8.33
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:54",
+          "check_out": "17:10",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:56",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.4
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "09:09",
+          "check_out": "18:02",
+          "status": "Late",
+          "working_hours": 8.88
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:55",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.4
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:53",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.4
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:58",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:51",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.25
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:54",
+          "check_out": "18:08",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:58",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.48
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:57",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:54",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "09:03",
+          "check_out": "18:10",
+          "status": "Late",
+          "working_hours": 9.12
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:53",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.4
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP002",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:59",
+          "check_out": "17:10",
+          "status": "Present",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:58",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.22
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:52",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.58
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:54",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:53",
+          "check_out": "17:26",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "09:23",
+          "check_out": "17:19",
+          "status": "Late",
+          "working_hours": 7.93
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:52",
+          "check_out": "18:00",
+          "status": "Present",
+          "working_hours": 9.13
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:50",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.65
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:53",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:59",
+          "check_out": "18:24",
+          "status": "Present",
+          "working_hours": 9.42
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:53",
+          "check_out": "17:05",
+          "status": "Present",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:59",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.07
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:59",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "09:03",
+          "check_out": "17:02",
+          "status": "Late",
+          "working_hours": 7.98
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:53",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.4
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:59",
+          "check_out": "17:23",
+          "status": "Present",
+          "working_hours": 8.4
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:53",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.6
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:58",
+          "check_out": "17:00",
+          "status": "Present",
+          "working_hours": 8.03
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:59",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:56",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:59",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.48
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:55",
+          "check_out": "17:23",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:58",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.13
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP003",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:57",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.25
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:53",
+          "check_out": "18:09",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:58",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.5
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:52",
+          "check_out": "18:09",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:51",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:55",
+          "check_out": "17:11",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:51",
+          "check_out": "17:04",
+          "status": "Present",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:56",
+          "check_out": "18:09",
+          "status": "Present",
+          "working_hours": 9.22
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:53",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.43
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:50",
+          "check_out": "18:04",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "09:11",
+          "check_out": "17:26",
+          "status": "Late",
+          "working_hours": 8.25
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "09:20",
+          "check_out": "18:10",
+          "status": "Late",
+          "working_hours": 8.83
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:51",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.28
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:50",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.63
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:55",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.42
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "09:22",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:50",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:55",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.38
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:53",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.3
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:50",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.35
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP004",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:55",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:51",
+          "check_out": "17:17",
+          "status": "Present",
+          "working_hours": 8.43
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "09:08",
+          "check_out": "17:26",
+          "status": "Late",
+          "working_hours": 8.3
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:51",
+          "check_out": "18:02",
+          "status": "Present",
+          "working_hours": 9.18
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:57",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.42
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:59",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "09:10",
+          "check_out": "17:13",
+          "status": "Late",
+          "working_hours": 8.05
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:59",
+          "check_out": "17:24",
+          "status": "Present",
+          "working_hours": 8.42
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:58",
+          "check_out": "18:04",
+          "status": "Present",
+          "working_hours": 9.1
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:58",
+          "check_out": "18:06",
+          "status": "Present",
+          "working_hours": 9.13
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:57",
+          "check_out": "18:18",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:59",
+          "check_out": "18:30",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:51",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:52",
+          "check_out": "18:24",
+          "status": "Present",
+          "working_hours": 9.53
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:54",
+          "check_out": "17:13",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:50",
+          "check_out": "18:18",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:54",
+          "check_out": "17:12",
+          "status": "Present",
+          "working_hours": 8.3
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:53",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.57
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:51",
+          "check_out": "17:05",
+          "status": "Present",
+          "working_hours": 8.23
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:52",
+          "check_out": "17:07",
+          "status": "Present",
+          "working_hours": 8.25
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "09:13",
+          "check_out": "17:10",
+          "status": "Late",
+          "working_hours": 7.95
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP005",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:50",
+          "check_out": "17:25",
+          "status": "Present",
+          "working_hours": 8.58
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:53",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.42
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:58",
+          "check_out": "18:00",
+          "status": "Present",
+          "working_hours": 9.03
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:50",
+          "check_out": "18:06",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:58",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:56",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.53
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:51",
+          "check_out": "18:10",
+          "status": "Present",
+          "working_hours": 9.32
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:55",
+          "check_out": "18:06",
+          "status": "Present",
+          "working_hours": 9.18
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:54",
+          "check_out": "17:10",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:54",
+          "check_out": "17:21",
+          "status": "Present",
+          "working_hours": 8.45
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "09:14",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:54",
+          "check_out": "18:08",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:50",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.63
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "09:19",
+          "check_out": "17:17",
+          "status": "Late",
+          "working_hours": 7.97
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:53",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:59",
+          "check_out": "17:11",
+          "status": "Present",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:57",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.48
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:51",
+          "check_out": "17:24",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "09:03",
+          "check_out": "18:00",
+          "status": "Late",
+          "working_hours": 8.95
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:53",
+          "check_out": "18:29",
+          "status": "Present",
+          "working_hours": 9.6
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:57",
+          "check_out": "18:06",
+          "status": "Present",
+          "working_hours": 9.15
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:55",
+          "check_out": "18:01",
+          "status": "Present",
+          "working_hours": 9.1
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP006",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "09:04",
+          "check_out": "17:09",
+          "status": "Late",
+          "working_hours": 8.08
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:59",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.5
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:57",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.42
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:54",
+          "check_out": "17:10",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:55",
+          "check_out": "18:00",
+          "status": "Present",
+          "working_hours": 9.08
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "09:23",
+          "check_out": "18:15",
+          "status": "Late",
+          "working_hours": 8.87
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:54",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:56",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.4
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:51",
+          "check_out": "18:09",
+          "status": "Present",
+          "working_hours": 9.3
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:54",
+          "check_out": "18:06",
+          "status": "Present",
+          "working_hours": 9.2
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:55",
+          "check_out": "18:16",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "09:23",
+          "check_out": "17:18",
+          "status": "Late",
+          "working_hours": 7.92
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:50",
+          "check_out": "18:18",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:50",
+          "check_out": "18:16",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:57",
+          "check_out": "18:18",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:54",
+          "check_out": "17:11",
+          "status": "Present",
+          "working_hours": 8.28
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "09:07",
+          "check_out": "18:12",
+          "status": "Late",
+          "working_hours": 9.08
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:58",
+          "check_out": "17:22",
+          "status": "Present",
+          "working_hours": 8.4
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:50",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.3
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:51",
+          "check_out": "17:14",
+          "status": "Present",
+          "working_hours": 8.38
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:58",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.4
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP007",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "09:19",
+          "check_out": "17:30",
+          "status": "Late",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:58",
+          "check_out": "18:29",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:58",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.5
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "09:20",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:57",
+          "check_out": "18:24",
+          "status": "Present",
+          "working_hours": 9.45
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:56",
+          "check_out": "18:24",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:55",
+          "check_out": "18:16",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "09:27",
+          "check_out": "17:25",
+          "status": "Late",
+          "working_hours": 7.97
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:56",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:59",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.45
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:54",
+          "check_out": "18:04",
+          "status": "Present",
+          "working_hours": 9.17
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:58",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:58",
+          "check_out": "17:02",
+          "status": "Present",
+          "working_hours": 8.07
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:53",
+          "check_out": "17:26",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:59",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.15
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:58",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.33
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:51",
+          "check_out": "18:29",
+          "status": "Present",
+          "working_hours": 9.63
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:52",
+          "check_out": "17:13",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:50",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.65
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:52",
+          "check_out": "17:16",
+          "status": "Present",
+          "working_hours": 8.4
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:58",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.32
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "09:10",
+          "check_out": "18:04",
+          "status": "Late",
+          "working_hours": 8.9
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP008",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "09:16",
+          "check_out": "17:29",
+          "status": "Late",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:52",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:57",
+          "check_out": "17:05",
+          "status": "Present",
+          "working_hours": 8.13
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:51",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:56",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:55",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "09:06",
+          "check_out": "17:25",
+          "status": "Late",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:55",
+          "check_out": "18:10",
+          "status": "Present",
+          "working_hours": 9.25
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:54",
+          "check_out": "17:07",
+          "status": "Present",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:57",
+          "check_out": "17:15",
+          "status": "Present",
+          "working_hours": 8.3
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:51",
+          "check_out": "17:03",
+          "status": "Present",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "09:08",
+          "check_out": "17:19",
+          "status": "Late",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:59",
+          "check_out": "17:15",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:54",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.32
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:59",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.5
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:55",
+          "check_out": "17:04",
+          "status": "Present",
+          "working_hours": 8.15
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:51",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:52",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:57",
+          "check_out": "17:30",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:52",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.18
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:55",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.27
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP009",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:50",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.63
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:51",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.2
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:52",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.57
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:52",
+          "check_out": "18:23",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "09:17",
+          "check_out": "18:16",
+          "status": "Late",
+          "working_hours": 8.98
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:57",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.5
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:52",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.23
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:57",
+          "check_out": "17:07",
+          "status": "Present",
+          "working_hours": 8.17
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:50",
+          "check_out": "18:02",
+          "status": "Present",
+          "working_hours": 9.2
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:55",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.53
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:50",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.65
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:51",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:52",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.6
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:54",
+          "check_out": "18:15",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:56",
+          "check_out": "18:01",
+          "status": "Present",
+          "working_hours": 9.08
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:56",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:56",
+          "check_out": "18:21",
+          "status": "Present",
+          "working_hours": 9.42
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:50",
+          "check_out": "18:07",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:59",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:51",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:53",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:57",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.37
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP010",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:54",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.55
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "09:07",
+          "check_out": "17:20",
+          "status": "Late",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:53",
+          "check_out": "18:21",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:54",
+          "check_out": "18:14",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:50",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.22
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:53",
+          "check_out": "17:13",
+          "status": "Present",
+          "working_hours": 8.33
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:54",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.57
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:59",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "09:23",
+          "check_out": "18:06",
+          "status": "Late",
+          "working_hours": 8.72
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:50",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.62
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:59",
+          "check_out": "17:21",
+          "status": "Present",
+          "working_hours": 8.37
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:59",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "09:10",
+          "check_out": "17:23",
+          "status": "Late",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:59",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:56",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:50",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.62
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:58",
+          "check_out": "18:07",
+          "status": "Present",
+          "working_hours": 9.15
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "09:17",
+          "check_out": "17:22",
+          "status": "Late",
+          "working_hours": 8.08
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:52",
+          "check_out": "17:11",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:50",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.62
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:57",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:54",
+          "check_out": "17:21",
+          "status": "Present",
+          "working_hours": 8.45
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP011",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:51",
+          "check_out": "18:15",
+          "status": "Present",
+          "working_hours": 9.4
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:51",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:51",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:52",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:54",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:51",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:52",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:53",
+          "check_out": "18:15",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:56",
+          "check_out": "17:02",
+          "status": "Present",
+          "working_hours": 8.1
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:58",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:54",
+          "check_out": "17:17",
+          "status": "Present",
+          "working_hours": 8.38
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:58",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.48
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:56",
+          "check_out": "18:30",
+          "status": "Present",
+          "working_hours": 9.57
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:56",
+          "check_out": "18:02",
+          "status": "Present",
+          "working_hours": 9.1
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:58",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.33
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:53",
+          "check_out": "17:05",
+          "status": "Present",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "09:09",
+          "check_out": "17:15",
+          "status": "Late",
+          "working_hours": 8.1
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:52",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:54",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:52",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.23
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:51",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.47
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP012",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "09:11",
+          "check_out": "17:11",
+          "status": "Late",
+          "working_hours": 8.0
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:54",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:53",
+          "check_out": "17:10",
+          "status": "Present",
+          "working_hours": 8.28
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "09:23",
+          "check_out": "17:13",
+          "status": "Late",
+          "working_hours": 7.83
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:56",
+          "check_out": "17:04",
+          "status": "Present",
+          "working_hours": 8.13
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:56",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:52",
+          "check_out": "18:14",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:55",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:52",
+          "check_out": "17:21",
+          "status": "Present",
+          "working_hours": 8.48
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "09:15",
+          "check_out": "17:23",
+          "status": "Late",
+          "working_hours": 8.13
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:58",
+          "check_out": "18:14",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:59",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.48
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:59",
+          "check_out": "18:18",
+          "status": "Present",
+          "working_hours": 9.32
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:58",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.52
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "09:12",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "09:26",
+          "check_out": "17:00",
+          "status": "Late",
+          "working_hours": 7.57
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "09:05",
+          "check_out": "17:30",
+          "status": "Late",
+          "working_hours": 8.42
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:53",
+          "check_out": "17:05",
+          "status": "Present",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:57",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:51",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "09:03",
+          "check_out": "17:02",
+          "status": "Late",
+          "working_hours": 7.98
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP013",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:57",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:52",
+          "check_out": "18:01",
+          "status": "Present",
+          "working_hours": 9.15
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:59",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:55",
+          "check_out": "17:14",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:57",
+          "check_out": "17:25",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:50",
+          "check_out": "18:10",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:54",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.58
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:52",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.62
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:50",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:57",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.48
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:53",
+          "check_out": "17:26",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:51",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:51",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:52",
+          "check_out": "17:22",
+          "status": "Present",
+          "working_hours": 8.5
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:58",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:55",
+          "check_out": "17:02",
+          "status": "Present",
+          "working_hours": 8.12
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:55",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "09:22",
+          "check_out": "17:22",
+          "status": "Late",
+          "working_hours": 8.0
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:52",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.58
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:53",
+          "check_out": "18:00",
+          "status": "Present",
+          "working_hours": 9.12
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "09:19",
+          "check_out": "17:09",
+          "status": "Late",
+          "working_hours": 7.83
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "09:14",
+          "check_out": "17:13",
+          "status": "Late",
+          "working_hours": 7.98
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "09:28",
+          "check_out": "18:20",
+          "status": "Late",
+          "working_hours": 8.87
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:51",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.45
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP014",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:55",
+          "check_out": "17:24",
+          "status": "Present",
+          "working_hours": 8.48
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:56",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.53
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:53",
+          "check_out": "17:07",
+          "status": "Present",
+          "working_hours": 8.23
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:53",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:54",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:59",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:50",
+          "check_out": "18:30",
+          "status": "Present",
+          "working_hours": 9.67
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "09:19",
+          "check_out": "18:26",
+          "status": "Late",
+          "working_hours": 9.12
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:50",
+          "check_out": "17:23",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:59",
+          "check_out": "18:25",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:51",
+          "check_out": "17:16",
+          "status": "Present",
+          "working_hours": 8.42
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:50",
+          "check_out": "17:00",
+          "status": "Present",
+          "working_hours": 8.17
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:56",
+          "check_out": "18:14",
+          "status": "Present",
+          "working_hours": 9.3
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:51",
+          "check_out": "18:05",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:53",
+          "check_out": "17:12",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:53",
+          "check_out": "18:01",
+          "status": "Present",
+          "working_hours": 9.13
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:56",
+          "check_out": "18:05",
+          "status": "Present",
+          "working_hours": 9.15
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:58",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:57",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:50",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:56",
+          "check_out": "17:25",
+          "status": "Present",
+          "working_hours": 8.48
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP015",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:59",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:59",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "09:16",
+          "check_out": "18:14",
+          "status": "Late",
+          "working_hours": 8.97
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:50",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.48
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "09:05",
+          "check_out": "18:12",
+          "status": "Late",
+          "working_hours": 9.12
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:53",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:58",
+          "check_out": "17:14",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "09:09",
+          "check_out": "17:01",
+          "status": "Late",
+          "working_hours": 7.87
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "09:10",
+          "check_out": "17:14",
+          "status": "Late",
+          "working_hours": 8.07
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:53",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:57",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.25
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "09:14",
+          "check_out": "18:07",
+          "status": "Late",
+          "working_hours": 8.88
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:57",
+          "check_out": "18:01",
+          "status": "Present",
+          "working_hours": 9.07
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:52",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:58",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.52
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:53",
+          "check_out": "17:01",
+          "status": "Present",
+          "working_hours": 8.13
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:51",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.62
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:59",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.12
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:58",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.22
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:56",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:53",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.57
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:58",
+          "check_out": "17:02",
+          "status": "Present",
+          "working_hours": 8.07
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP016",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:56",
+          "check_out": "17:11",
+          "status": "Present",
+          "working_hours": 8.25
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:59",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.48
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:54",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:55",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:53",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:54",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.15
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:57",
+          "check_out": "17:07",
+          "status": "Present",
+          "working_hours": 8.17
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:53",
+          "check_out": "17:15",
+          "status": "Present",
+          "working_hours": 8.37
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:53",
+          "check_out": "18:24",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:55",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:55",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:56",
+          "check_out": "17:23",
+          "status": "Present",
+          "working_hours": 8.45
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:54",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:51",
+          "check_out": "18:01",
+          "status": "Present",
+          "working_hours": 9.17
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:50",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:53",
+          "check_out": "17:30",
+          "status": "Present",
+          "working_hours": 8.62
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:58",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:54",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.53
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "09:19",
+          "check_out": "18:13",
+          "status": "Late",
+          "working_hours": 8.9
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:57",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.38
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:51",
+          "check_out": "17:16",
+          "status": "Present",
+          "working_hours": 8.42
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:59",
+          "check_out": "18:09",
+          "status": "Present",
+          "working_hours": 9.17
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:57",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.27
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP017",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:55",
+          "check_out": "17:12",
+          "status": "Present",
+          "working_hours": 8.28
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:54",
+          "check_out": "17:05",
+          "status": "Present",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:51",
+          "check_out": "18:21",
+          "status": "Present",
+          "working_hours": 9.5
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:53",
+          "check_out": "17:00",
+          "status": "Present",
+          "working_hours": 8.12
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:53",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.42
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:57",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:57",
+          "check_out": "18:16",
+          "status": "Present",
+          "working_hours": 9.32
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:50",
+          "check_out": "18:00",
+          "status": "Present",
+          "working_hours": 9.17
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:53",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:54",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.15
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "09:19",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "09:05",
+          "check_out": "17:17",
+          "status": "Late",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:54",
+          "check_out": "17:15",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:51",
+          "check_out": "17:05",
+          "status": "Present",
+          "working_hours": 8.23
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:51",
+          "check_out": "17:04",
+          "status": "Present",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:57",
+          "check_out": "18:02",
+          "status": "Present",
+          "working_hours": 9.08
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:59",
+          "check_out": "18:30",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:55",
+          "check_out": "17:00",
+          "status": "Present",
+          "working_hours": 8.08
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:58",
+          "check_out": "17:24",
+          "status": "Present",
+          "working_hours": 8.43
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:52",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.18
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "09:24",
+          "check_out": "18:19",
+          "status": "Late",
+          "working_hours": 8.92
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:54",
+          "check_out": "18:14",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "09:08",
+          "check_out": "18:20",
+          "status": "Late",
+          "working_hours": 9.2
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:53",
+          "check_out": "18:01",
+          "status": "Present",
+          "working_hours": 9.13
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP018",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "09:07",
+          "check_out": "18:10",
+          "status": "Late",
+          "working_hours": 9.05
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:58",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.52
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:59",
+          "check_out": "18:15",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:51",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.2
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:57",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.37
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:53",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.48
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:56",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:58",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.17
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:54",
+          "check_out": "17:21",
+          "status": "Present",
+          "working_hours": 8.45
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:52",
+          "check_out": "18:16",
+          "status": "Present",
+          "working_hours": 9.4
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:51",
+          "check_out": "17:07",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:50",
+          "check_out": "18:21",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:58",
+          "check_out": "18:30",
+          "status": "Present",
+          "working_hours": 9.53
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:59",
+          "check_out": "18:04",
+          "status": "Present",
+          "working_hours": 9.08
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:56",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:53",
+          "check_out": "17:30",
+          "status": "Present",
+          "working_hours": 8.62
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:56",
+          "check_out": "18:09",
+          "status": "Present",
+          "working_hours": 9.22
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:51",
+          "check_out": "17:24",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:53",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.43
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:50",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP019",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:56",
+          "check_out": "17:26",
+          "status": "Present",
+          "working_hours": 8.5
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:51",
+          "check_out": "17:12",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:57",
+          "check_out": "17:07",
+          "status": "Present",
+          "working_hours": 8.17
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:52",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.45
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:57",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:54",
+          "check_out": "17:23",
+          "status": "Present",
+          "working_hours": 8.48
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:58",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "09:14",
+          "check_out": "17:02",
+          "status": "Late",
+          "working_hours": 7.8
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:54",
+          "check_out": "17:05",
+          "status": "Present",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:54",
+          "check_out": "17:11",
+          "status": "Present",
+          "working_hours": 8.28
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "09:08",
+          "check_out": "18:13",
+          "status": "Late",
+          "working_hours": 9.08
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "09:27",
+          "check_out": "17:18",
+          "status": "Late",
+          "working_hours": 7.85
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:52",
+          "check_out": "17:13",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:53",
+          "check_out": "18:16",
+          "status": "Present",
+          "working_hours": 9.38
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:59",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:50",
+          "check_out": "18:06",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "09:08",
+          "check_out": "18:23",
+          "status": "Late",
+          "working_hours": 9.25
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:52",
+          "check_out": "17:03",
+          "status": "Present",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:51",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:52",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.5
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP020",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:56",
+          "check_out": "17:12",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:56",
+          "check_out": "17:11",
+          "status": "Present",
+          "working_hours": 8.25
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "09:23",
+          "check_out": "17:16",
+          "status": "Late",
+          "working_hours": 7.88
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:50",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:51",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.2
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:59",
+          "check_out": "17:17",
+          "status": "Present",
+          "working_hours": 8.3
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:52",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.45
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:51",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.62
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:55",
+          "check_out": "17:10",
+          "status": "Present",
+          "working_hours": 8.25
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "09:14",
+          "check_out": "17:21",
+          "status": "Late",
+          "working_hours": 8.12
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:51",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:51",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.58
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:55",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.42
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "09:28",
+          "check_out": "17:09",
+          "status": "Late",
+          "working_hours": 7.68
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:55",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:55",
+          "check_out": "17:14",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:51",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:55",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:58",
+          "check_out": "17:15",
+          "status": "Present",
+          "working_hours": 8.28
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:54",
+          "check_out": "18:24",
+          "status": "Present",
+          "working_hours": 9.5
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "09:13",
+          "check_out": "18:02",
+          "status": "Late",
+          "working_hours": 8.82
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP021",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:53",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:55",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.57
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "09:03",
+          "check_out": "17:19",
+          "status": "Late",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "09:25",
+          "check_out": "18:24",
+          "status": "Late",
+          "working_hours": 8.98
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:50",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:55",
+          "check_out": "18:00",
+          "status": "Present",
+          "working_hours": 9.08
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "09:19",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:59",
+          "check_out": "17:07",
+          "status": "Present",
+          "working_hours": 8.13
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:52",
+          "check_out": "18:00",
+          "status": "Present",
+          "working_hours": 9.13
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:51",
+          "check_out": "18:08",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:57",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:59",
+          "check_out": "18:07",
+          "status": "Present",
+          "working_hours": 9.13
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:54",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.53
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:50",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.65
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:52",
+          "check_out": "18:30",
+          "status": "Present",
+          "working_hours": 9.63
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:52",
+          "check_out": "18:09",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:57",
+          "check_out": "17:03",
+          "status": "Present",
+          "working_hours": 8.1
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:52",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "09:23",
+          "check_out": "18:07",
+          "status": "Late",
+          "working_hours": 8.73
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:59",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.45
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:56",
+          "check_out": "17:25",
+          "status": "Present",
+          "working_hours": 8.48
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:52",
+          "check_out": "18:12",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:59",
+          "check_out": "18:05",
+          "status": "Present",
+          "working_hours": 9.1
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:54",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP022",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:55",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "09:26",
+          "check_out": "17:01",
+          "status": "Late",
+          "working_hours": 7.58
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:53",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.57
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "09:14",
+          "check_out": "18:27",
+          "status": "Late",
+          "working_hours": 9.22
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:55",
+          "check_out": "17:15",
+          "status": "Present",
+          "working_hours": 8.33
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:56",
+          "check_out": "17:09",
+          "status": "Present",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:51",
+          "check_out": "17:09",
+          "status": "Present",
+          "working_hours": 8.3
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:56",
+          "check_out": "17:00",
+          "status": "Present",
+          "working_hours": 8.07
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:54",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.15
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:55",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.45
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:55",
+          "check_out": "17:30",
+          "status": "Present",
+          "working_hours": 8.58
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:54",
+          "check_out": "18:08",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:59",
+          "check_out": "17:11",
+          "status": "Present",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:50",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:53",
+          "check_out": "17:01",
+          "status": "Present",
+          "working_hours": 8.13
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:52",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:58",
+          "check_out": "18:05",
+          "status": "Present",
+          "working_hours": 9.12
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:58",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:52",
+          "check_out": "18:08",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:51",
+          "check_out": "18:23",
+          "status": "Present",
+          "working_hours": 9.53
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:57",
+          "check_out": "18:11",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:58",
+          "check_out": "17:14",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "09:28",
+          "check_out": "18:23",
+          "status": "Late",
+          "working_hours": 8.92
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP023",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:55",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.38
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "09:20",
+          "check_out": "17:20",
+          "status": "Late",
+          "working_hours": 8.0
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:59",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:59",
+          "check_out": "17:13",
+          "status": "Present",
+          "working_hours": 8.23
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "09:22",
+          "check_out": "18:21",
+          "status": "Late",
+          "working_hours": 8.98
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "09:23",
+          "check_out": "17:28",
+          "status": "Late",
+          "working_hours": 8.08
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:53",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.33
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:53",
+          "check_out": "18:23",
+          "status": "Present",
+          "working_hours": 9.5
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:55",
+          "check_out": "17:23",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:51",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.25
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "09:19",
+          "check_out": "18:26",
+          "status": "Late",
+          "working_hours": 9.12
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "09:21",
+          "check_out": "17:02",
+          "status": "Late",
+          "working_hours": 7.68
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:58",
+          "check_out": "17:30",
+          "status": "Present",
+          "working_hours": 8.53
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "09:26",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:56",
+          "check_out": "18:00",
+          "status": "Present",
+          "working_hours": 9.07
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:51",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.62
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "09:04",
+          "check_out": "18:07",
+          "status": "Late",
+          "working_hours": 9.05
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:59",
+          "check_out": "18:15",
+          "status": "Present",
+          "working_hours": 9.27
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:54",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.55
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:54",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "09:26",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:55",
+          "check_out": "17:09",
+          "status": "Present",
+          "working_hours": 8.23
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:51",
+          "check_out": "17:13",
+          "status": "Present",
+          "working_hours": 8.37
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP024",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:51",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.6
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:59",
+          "check_out": "17:13",
+          "status": "Present",
+          "working_hours": 8.23
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:51",
+          "check_out": "17:26",
+          "status": "Present",
+          "working_hours": 8.58
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:58",
+          "check_out": "17:03",
+          "status": "Present",
+          "working_hours": 8.08
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "09:21",
+          "check_out": "18:08",
+          "status": "Late",
+          "working_hours": 8.78
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:50",
+          "check_out": "18:07",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:51",
+          "check_out": "18:25",
+          "status": "Present",
+          "working_hours": 9.57
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:50",
+          "check_out": "17:05",
+          "status": "Present",
+          "working_hours": 8.25
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:59",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:53",
+          "check_out": "18:05",
+          "status": "Present",
+          "working_hours": 9.2
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:54",
+          "check_out": "17:13",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:57",
+          "check_out": "17:25",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "09:28",
+          "check_out": "18:20",
+          "status": "Late",
+          "working_hours": 8.87
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:57",
+          "check_out": "18:15",
+          "status": "Present",
+          "working_hours": 9.3
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:58",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:53",
+          "check_out": "18:07",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:58",
+          "check_out": "17:01",
+          "status": "Present",
+          "working_hours": 8.05
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:56",
+          "check_out": "17:00",
+          "status": "Present",
+          "working_hours": 8.07
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:52",
+          "check_out": "18:14",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:55",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.37
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:54",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.53
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:56",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:55",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.45
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP025",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:56",
+          "check_out": "17:03",
+          "status": "Present",
+          "working_hours": 8.12
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:57",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:54",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.23
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:59",
+          "check_out": "18:01",
+          "status": "Present",
+          "working_hours": 9.03
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:53",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.6
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:52",
+          "check_out": "17:30",
+          "status": "Present",
+          "working_hours": 8.63
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:56",
+          "check_out": "17:12",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:55",
+          "check_out": "18:10",
+          "status": "Present",
+          "working_hours": 9.25
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "09:20",
+          "check_out": "18:23",
+          "status": "Late",
+          "working_hours": 9.05
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "09:04",
+          "check_out": "17:21",
+          "status": "Late",
+          "working_hours": 8.28
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:59",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.23
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:59",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.15
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:57",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.53
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:51",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.62
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:51",
+          "check_out": "17:12",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "09:28",
+          "check_out": "18:23",
+          "status": "Late",
+          "working_hours": 8.92
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:58",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:50",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.48
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:59",
+          "check_out": "18:03",
+          "status": "Present",
+          "working_hours": 9.07
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "09:16",
+          "check_out": "17:29",
+          "status": "Late",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:50",
+          "check_out": "17:16",
+          "status": "Present",
+          "working_hours": 8.43
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:54",
+          "check_out": "17:01",
+          "status": "Present",
+          "working_hours": 8.12
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:57",
+          "check_out": "17:00",
+          "status": "Present",
+          "working_hours": 8.05
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:59",
+          "check_out": "18:16",
+          "status": "Present",
+          "working_hours": 9.28
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP026",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:52",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.45
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:58",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.4
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:50",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:57",
+          "check_out": "17:24",
+          "status": "Present",
+          "working_hours": 8.45
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:51",
+          "check_out": "17:07",
+          "status": "Present",
+          "working_hours": 8.27
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:56",
+          "check_out": "18:23",
+          "status": "Present",
+          "working_hours": 9.45
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "09:18",
+          "check_out": "18:23",
+          "status": "Late",
+          "working_hours": 9.08
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "09:10",
+          "check_out": "17:21",
+          "status": "Late",
+          "working_hours": 8.18
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "09:24",
+          "check_out": "18:12",
+          "status": "Late",
+          "working_hours": 8.8
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:50",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.5
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:52",
+          "check_out": "18:15",
+          "status": "Present",
+          "working_hours": 9.38
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:51",
+          "check_out": "17:10",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:50",
+          "check_out": "18:02",
+          "status": "Present",
+          "working_hours": 9.2
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "09:19",
+          "check_out": "17:02",
+          "status": "Late",
+          "working_hours": 7.72
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:58",
+          "check_out": "18:21",
+          "status": "Present",
+          "working_hours": 9.38
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "09:15",
+          "check_out": "18:16",
+          "status": "Late",
+          "working_hours": 9.02
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:56",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.52
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:53",
+          "check_out": "18:16",
+          "status": "Present",
+          "working_hours": 9.38
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:57",
+          "check_out": "18:25",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:52",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:58",
+          "check_out": "17:19",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:56",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP027",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "08:52",
+          "check_out": "17:11",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:53",
+          "check_out": "17:23",
+          "status": "Present",
+          "working_hours": 8.5
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:57",
+          "check_out": "17:25",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "09:04",
+          "check_out": "17:25",
+          "status": "Late",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:56",
+          "check_out": "18:13",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:50",
+          "check_out": "17:28",
+          "status": "Present",
+          "working_hours": 8.63
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:54",
+          "check_out": "17:15",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:59",
+          "check_out": "18:18",
+          "status": "Present",
+          "working_hours": 9.32
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "09:17",
+          "check_out": "18:17",
+          "status": "Late",
+          "working_hours": 9.0
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:50",
+          "check_out": "18:18",
+          "status": "Present",
+          "working_hours": 9.47
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:53",
+          "check_out": "18:25",
+          "status": "Present",
+          "working_hours": 9.53
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "09:20",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "09:07",
+          "check_out": "18:22",
+          "status": "Late",
+          "working_hours": 9.25
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:54",
+          "check_out": "18:02",
+          "status": "Present",
+          "working_hours": 9.13
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:56",
+          "check_out": "17:20",
+          "status": "Present",
+          "working_hours": 8.4
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "08:53",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:52",
+          "check_out": "17:10",
+          "status": "Present",
+          "working_hours": 8.3
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "09:22",
+          "check_out": "18:27",
+          "status": "Late",
+          "working_hours": 9.08
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP028",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "09:04",
+          "check_out": "18:15",
+          "status": "Late",
+          "working_hours": 9.18
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:52",
+          "check_out": "18:30",
+          "status": "Present",
+          "working_hours": 9.63
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:54",
+          "check_out": "18:25",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "09:17",
+          "check_out": "18:13",
+          "status": "Late",
+          "working_hours": 8.93
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:52",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:52",
+          "check_out": "18:05",
+          "status": "Present",
+          "working_hours": 9.22
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:56",
+          "check_out": "17:15",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:56",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:55",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:55",
+          "check_out": "18:08",
+          "status": "Present",
+          "working_hours": 9.22
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:51",
+          "check_out": "17:01",
+          "status": "Present",
+          "working_hours": 8.17
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:54",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.58
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:58",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:52",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.5
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:52",
+          "check_out": "17:25",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:51",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:51",
+          "check_out": "18:28",
+          "status": "Present",
+          "working_hours": 9.62
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": "09:11",
+          "check_out": "17:08",
+          "status": "Late",
+          "working_hours": 7.95
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:57",
+          "check_out": "17:18",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": "08:53",
+          "check_out": "18:19",
+          "status": "Present",
+          "working_hours": 9.43
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:51",
+          "check_out": "17:26",
+          "status": "Present",
+          "working_hours": 8.58
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:59",
+          "check_out": "17:08",
+          "status": "Present",
+          "working_hours": 8.15
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP029",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "09:12",
+          "check_out": "18:14",
+          "status": "Late",
+          "working_hours": 9.03
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:53",
+          "check_out": "17:06",
+          "status": "Present",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:51",
+          "check_out": "18:20",
+          "status": "Present",
+          "working_hours": 9.48
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "09:13",
+          "check_out": "18:28",
+          "status": "Late",
+          "working_hours": 9.25
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:59",
+          "check_out": "18:09",
+          "status": "Present",
+          "working_hours": 9.17
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:52",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:56",
+          "check_out": "18:27",
+          "status": "Present",
+          "working_hours": 9.52
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:51",
+          "check_out": "17:12",
+          "status": "Present",
+          "working_hours": 8.35
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:50",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.45
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:57",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.42
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "08:58",
+          "check_out": "17:21",
+          "status": "Present",
+          "working_hours": 8.38
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "08:53",
+          "check_out": "17:21",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:56",
+          "check_out": "17:26",
+          "status": "Present",
+          "working_hours": 8.5
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": "08:56",
+          "check_out": "18:02",
+          "status": "Present",
+          "working_hours": 9.1
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:53",
+          "check_out": "18:14",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "09:07",
+          "check_out": "17:09",
+          "status": "Late",
+          "working_hours": 8.03
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:54",
+          "check_out": "17:24",
+          "status": "Present",
+          "working_hours": 8.5
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:59",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.3
+        }
+      ]
+    },
+    {
+      "employee_id": "EMP030",
+      "attendance": [
+        {
+          "date": "2026-11-01",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-02",
+          "check_in": "09:21",
+          "check_out": "18:14",
+          "status": "Late",
+          "working_hours": 8.88
+        },
+        {
+          "date": "2026-11-03",
+          "check_in": "08:56",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-04",
+          "check_in": "08:53",
+          "check_out": "18:22",
+          "status": "Present",
+          "working_hours": 9.48
+        },
+        {
+          "date": "2026-11-05",
+          "check_in": "08:58",
+          "check_out": "17:24",
+          "status": "Present",
+          "working_hours": 8.43
+        },
+        {
+          "date": "2026-11-06",
+          "check_in": "08:56",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.55
+        },
+        {
+          "date": "2026-11-07",
+          "check_in": "08:50",
+          "check_out": "17:03",
+          "status": "Present",
+          "working_hours": 8.22
+        },
+        {
+          "date": "2026-11-08",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-09",
+          "check_in": "08:58",
+          "check_out": "17:03",
+          "status": "Present",
+          "working_hours": 8.08
+        },
+        {
+          "date": "2026-11-10",
+          "check_in": "08:58",
+          "check_out": "17:17",
+          "status": "Present",
+          "working_hours": 8.32
+        },
+        {
+          "date": "2026-11-11",
+          "check_in": "08:54",
+          "check_out": "17:01",
+          "status": "Present",
+          "working_hours": 8.12
+        },
+        {
+          "date": "2026-11-12",
+          "check_in": "08:57",
+          "check_out": "18:16",
+          "status": "Present",
+          "working_hours": 9.32
+        },
+        {
+          "date": "2026-11-13",
+          "check_in": "08:56",
+          "check_out": "18:17",
+          "status": "Present",
+          "working_hours": 9.35
+        },
+        {
+          "date": "2026-11-14",
+          "check_in": "08:58",
+          "check_out": "18:15",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-15",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-16",
+          "check_in": "08:56",
+          "check_out": "17:21",
+          "status": "Present",
+          "working_hours": 8.42
+        },
+        {
+          "date": "2026-11-17",
+          "check_in": "08:52",
+          "check_out": "18:09",
+          "status": "Present",
+          "working_hours": 9.28
+        },
+        {
+          "date": "2026-11-18",
+          "check_in": "09:12",
+          "check_out": null,
+          "status": "Late",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-19",
+          "check_in": "09:13",
+          "check_out": "18:00",
+          "status": "Late",
+          "working_hours": 8.78
+        },
+        {
+          "date": "2026-11-20",
+          "check_in": "08:52",
+          "check_out": "17:04",
+          "status": "Present",
+          "working_hours": 8.2
+        },
+        {
+          "date": "2026-11-21",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-22",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-23",
+          "check_in": "08:55",
+          "check_out": "18:14",
+          "status": "Present",
+          "working_hours": 9.32
+        },
+        {
+          "date": "2026-11-24",
+          "check_in": null,
+          "check_out": null,
+          "status": "Leave",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-25",
+          "check_in": "08:53",
+          "check_out": null,
+          "status": "Present",
+          "working_hours": null
+        },
+        {
+          "date": "2026-11-26",
+          "check_in": null,
+          "check_out": null,
+          "status": "Absent",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-27",
+          "check_in": "08:59",
+          "check_out": "17:27",
+          "status": "Present",
+          "working_hours": 8.47
+        },
+        {
+          "date": "2026-11-28",
+          "check_in": "08:54",
+          "check_out": "17:29",
+          "status": "Present",
+          "working_hours": 8.58
+        },
+        {
+          "date": "2026-11-29",
+          "check_in": null,
+          "check_out": null,
+          "status": "Off",
+          "working_hours": 0
+        },
+        {
+          "date": "2026-11-30",
+          "check_in": "08:54",
+          "check_out": "18:26",
+          "status": "Present",
+          "working_hours": 9.53
+        }
+      ]
+    }
+  ]
+}

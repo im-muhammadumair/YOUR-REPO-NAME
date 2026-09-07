@@ -1,0 +1,163 @@
+[
+  {
+    "document_id": "DOC001",
+    "name": "Employee Handbook",
+    "category": "HR",
+    "file": "HR/Employee Handbook.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC002",
+    "name": "Leave Policy",
+    "category": "HR",
+    "file": "HR/Leave Policy.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC003",
+    "name": "Attendance Policy",
+    "category": "HR",
+    "file": "HR/Attendance Policy.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC004",
+    "name": "Code of Conduct",
+    "category": "Company Policy",
+    "file": "company policy/Code of Conduct.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC005",
+    "name": "IT Security Policy",
+    "category": "IT",
+    "file": "IT/IT Security Policy.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC006",
+    "name": "Work From Home Policy",
+    "category": "HR",
+    "file": "HR/Work From Home Policy.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC007",
+    "name": "Employee Benefits Guide",
+    "category": "Benefits",
+    "file": "benefits/Employee Benefits Guide.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC008",
+    "name": "Health and Safety Guidelines",
+    "category": "Safety",
+    "file": "safety/Health and Safety Guidelines.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC009",
+    "name": "Office Emergency Procedures",
+    "category": "Safety",
+    "file": "safety/Office Emergency Procedures.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC010",
+    "name": "IT Support Guide",
+    "category": "IT",
+    "file": "IT/IT Support Guide.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC011",
+    "name": "Anti-Harassment Policy",
+    "category": "HR",
+    "file": "HR/Anti-Harassment Policy.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC012",
+    "name": "Travel & Reimbursement Policy",
+    "category": "Finance",
+    "file": "finance/Travel & Reimbursement Policy.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC013",
+    "name": "Performance Review Guidelines",
+    "category": "HR",
+    "file": "HR/Performance Review Guidelines.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC014",
+    "name": "Data Protection & Privacy Policy",
+    "category": "Company Policy",
+    "file": "company policy/Data Protection & Privacy Policy.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC015",
+    "name": "Remote Work Setup Guide",
+    "category": "IT",
+    "file": "IT/Remote Work Setup Guide.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC016",
+    "name": "Payroll & Salary Structure",
+    "category": "Finance",
+    "file": "finance/Payroll & Salary Structure.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC017",
+    "name": "Leave Request Form",
+    "category": "Forms",
+    "file": "forms/Leave Request Form.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC018",
+    "name": "Expense Claim Form",
+    "category": "Forms",
+    "file": "forms/Expense Claim Form.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC019",
+    "name": "Resignation Letter Template",
+    "category": "Forms",
+    "file": "forms/Resignation Letter Template.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC020",
+    "name": "New Hire Onboarding Checklist",
+    "category": "Onboarding",
+    "file": "onboarding/New Hire Onboarding Checklist.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC021",
+    "name": "Employee Training Calendar",
+    "category": "Onboarding",
+    "file": "onboarding/Employee Training Calendar.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC022",
+    "name": "Fire Evacuation Map",
+    "category": "Safety",
+    "file": "safety/Fire Evacuation Map.pdf",
+    "type": "PDF"
+  },
+  {
+    "document_id": "DOC023",
+    "name": "Anti-Bribery Policy",
+    "category": "Compliance",
+    "file": "compilance/Anti-Bribery Policy.pdf",
+    "type": "PDF"
+  }
+]

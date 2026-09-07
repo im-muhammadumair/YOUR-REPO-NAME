@@ -1,0 +1,184 @@
+{
+  "employees": {
+    "EMP001": {
+      "annual": 14,
+      "sick": 8,
+      "casual": 6,
+      "unpaid": 0
+    },
+    "EMP002": {
+      "annual": 12,
+      "sick": 7,
+      "casual": 5,
+      "unpaid": 0
+    },
+    "EMP003": {
+      "annual": 15,
+      "sick": 8,
+      "casual": 6,
+      "unpaid": 0
+    },
+    "EMP004": {
+      "annual": 17,
+      "sick": 10,
+      "casual": 7,
+      "unpaid": 2
+    },
+    "EMP005": {
+      "annual": 15,
+      "sick": 8,
+      "casual": 5,
+      "unpaid": 1
+    },
+    "EMP006": {
+      "annual": 12,
+      "sick": 9,
+      "casual": 5,
+      "unpaid": 2
+    },
+    "EMP007": {
+      "annual": 9,
+      "sick": 9,
+      "casual": 8,
+      "unpaid": 2
+    },
+    "EMP008": {
+      "annual": 17,
+      "sick": 7,
+      "casual": 5,
+      "unpaid": 0
+    },
+    "EMP009": {
+      "annual": 15,
+      "sick": 9,
+      "casual": 8,
+      "unpaid": 1
+    },
+    "EMP010": {
+      "annual": 8,
+      "sick": 6,
+      "casual": 5,
+      "unpaid": 2
+    },
+    "EMP011": {
+      "annual": 15,
+      "sick": 9,
+      "casual": 8,
+      "unpaid": 2
+    },
+    "EMP012": {
+      "annual": 16,
+      "sick": 8,
+      "casual": 7,
+      "unpaid": 0
+    },
+    "EMP013": {
+      "annual": 10,
+      "sick": 9,
+      "casual": 4,
+      "unpaid": 0
+    },
+    "EMP014": {
+      "annual": 18,
+      "sick": 8,
+      "casual": 5,
+      "unpaid": 0
+    },
+    "EMP015": {
+      "annual": 16,
+      "sick": 8,
+      "casual": 4,
+      "unpaid": 1
+    },
+    "EMP016": {
+      "annual": 8,
+      "sick": 6,
+      "casual": 7,
+      "unpaid": 0
+    },
+    "EMP017": {
+      "annual": 9,
+      "sick": 9,
+      "casual": 7,
+      "unpaid": 2
+    },
+    "EMP018": {
+      "annual": 9,
+      "sick": 10,
+      "casual": 7,
+      "unpaid": 0
+    },
+    "EMP019": {
+      "annual": 8,
+      "sick": 7,
+      "casual": 8,
+      "unpaid": 0
+    },
+    "EMP020": {
+      "annual": 10,
+      "sick": 8,
+      "casual": 5,
+      "unpaid": 1
+    },
+    "EMP021": {
+      "annual": 16,
+      "sick": 8,
+      "casual": 4,
+      "unpaid": 0
+    },
+    "EMP022": {
+      "annual": 8,
+      "sick": 8,
+      "casual": 5,
+      "unpaid": 1
+    },
+    "EMP023": {
+      "annual": 17,
+      "sick": 8,
+      "casual": 8,
+      "unpaid": 1
+    },
+    "EMP024": {
+      "annual": 13,
+      "sick": 7,
+      "casual": 4,
+      "unpaid": 2
+    },
+    "EMP025": {
+      "annual": 12,
+      "sick": 9,
+      "casual": 4,
+      "unpaid": 0
+    },
+    "EMP026": {
+      "annual": 13,
+      "sick": 9,
+      "casual": 8,
+      "unpaid": 2
+    },
+    "EMP027": {
+      "annual": 9,
+      "sick": 8,
+      "casual": 8,
+      "unpaid": 2
+    },
+    "EMP028": {
+      "annual": 12,
+      "sick": 6,
+      "casual": 6,
+      "unpaid": 1
+    },
+    "EMP029": {
+      "annual": 9,
+      "sick": 6,
+      "casual": 5,
+      "unpaid": 2
+    },
+    "EMP030": {
+      "annual": 14,
+      "sick": 7,
+      "casual": 5,
+      "unpaid": 0
+    }
+  }
+}

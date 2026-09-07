@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.file-link-secret
+.credentials.key
+# ChromaDB vector store (regenerable from the source PDFs in storage/).
+chroma_db/

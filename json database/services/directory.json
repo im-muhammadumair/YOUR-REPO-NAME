@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "service_id": "SRV001",
+      "name": "Ali Raza",
+      "role": "IT Support",
+      "department": "Information Technology",
+      "extension": "204",
+      "email": "ali.raza@company.com",
+      "location": "2nd Floor",
+      "hours": "09:00-17:00"
+    },
+    {
+      "service_id": "SRV002",
+      "name": "Ahmed Khan",
+      "role": "HR Helpdesk",
+      "department": "Human Resources",
+      "extension": "205",
+      "email": "ahmed.khan@company.com",
+      "location": "1st Floor",
+      "hours": "09:00-18:00"
+    },
+    {
+      "service_id": "SRV003",
+      "name": "Sara Malik",
+      "role": "Admin Support",
+      "department": "Administration",
+      "extension": "206",
+      "email": "sara.malik@company.com",
+      "location": "1st Floor",
+      "hours": "08:30-17:30"
+    },
+    {
+      "service_id": "SRV004",
+      "name": "Usman Baig",
+      "role": "Finance & Payroll",
+      "department": "Finance",
+      "extension": "207",
+      "email": "usman.baig@company.com",
+      "location": "2nd Floor",
+      "hours": "09:00-17:00"
+    },
+    {
+      "service_id": "SRV005",
+      "name": "Bilal Hussain",
+      "role": "Facilities / Maintenance",
+      "department": "Operations",
+      "extension": "208",
+      "email": "bilal.hussain@company.com",
+      "location": "Ground Floor",
+      "hours": "08:00-17:00"
+    },
+    {
+      "service_id": "SRV006",
+      "name": "Hina Shah",
+      "role": "Employee Wellness",
+      "department": "Human Resources",
+      "extension": "209",
+      "email": "hina.shah@company.com",
+      "location": "1st Floor",
+      "hours": "10:00-16:00"
+    }
+  ]
+}

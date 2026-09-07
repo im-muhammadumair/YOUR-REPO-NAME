@@ -1,0 +1,244 @@
+{
+  "employees": {
+    "EMP001": {
+      "currency": "PKR",
+      "basic": 60000,
+      "housing_allowance": 10000,
+      "transport_allowance": 10000,
+      "other_allowances": 5000,
+      "deductions": 5000
+    },
+    "EMP002": {
+      "currency": "PKR",
+      "basic": 55000,
+      "housing_allowance": 8000,
+      "transport_allowance": 7000,
+      "other_allowances": 5000,
+      "deductions": 4000
+    },
+    "EMP003": {
+      "currency": "PKR",
+      "basic": 58000,
+      "housing_allowance": 9000,
+      "transport_allowance": 8000,
+      "other_allowances": 5000,
+      "deductions": 4000
+    },
+    "EMP004": {
+      "currency": "PKR",
+      "basic": 57000,
+      "housing_allowance": 10871,
+      "transport_allowance": 7620,
+      "other_allowances": 3696,
+      "deductions": 3809
+    },
+    "EMP005": {
+      "currency": "PKR",
+      "basic": 63000,
+      "housing_allowance": 9007,
+      "transport_allowance": 5410,
+      "other_allowances": 2548,
+      "deductions": 5395
+    },
+    "EMP006": {
+      "currency": "PKR",
+      "basic": 74000,
+      "housing_allowance": 12655,
+      "transport_allowance": 9130,
+      "other_allowances": 3225,
+      "deductions": 5292
+    },
+    "EMP007": {
+      "currency": "PKR",
+      "basic": 85000,
+      "housing_allowance": 13335,
+      "transport_allowance": 7262,
+      "other_allowances": 6429,
+      "deductions": 6135
+    },
+    "EMP008": {
+      "currency": "PKR",
+      "basic": 75000,
+      "housing_allowance": 12384,
+      "transport_allowance": 10420,
+      "other_allowances": 4538,
+      "deductions": 6165
+    },
+    "EMP009": {
+      "currency": "PKR",
+      "basic": 99000,
+      "housing_allowance": 13007,
+      "transport_allowance": 13172,
+      "other_allowances": 7324,
+      "deductions": 5433
+    },
+    "EMP010": {
+      "currency": "PKR",
+      "basic": 95000,
+      "housing_allowance": 17517,
+      "transport_allowance": 9891,
+      "other_allowances": 4569,
+      "deductions": 7910
+    },
+    "EMP011": {
+      "currency": "PKR",
+      "basic": 75000,
+      "housing_allowance": 14529,
+      "transport_allowance": 7170,
+      "other_allowances": 4456,
+      "deductions": 5283
+    },
+    "EMP012": {
+      "currency": "PKR",
+      "basic": 96000,
+      "housing_allowance": 18561,
+      "transport_allowance": 8246,
+      "other_allowances": 6487,
+      "deductions": 7814
+    },
+    "EMP013": {
+      "currency": "PKR",
+      "basic": 58000,
+      "housing_allowance": 11151,
+      "transport_allowance": 5928,
+      "other_allowances": 2771,
+      "deductions": 4887
+    },
+    "EMP014": {
+      "currency": "PKR",
+      "basic": 60000,
+      "housing_allowance": 8389,
+      "transport_allowance": 7035,
+      "other_allowances": 4204,
+      "deductions": 5295
+    },
+    "EMP015": {
+      "currency": "PKR",
+      "basic": 64000,
+      "housing_allowance": 10474,
+      "transport_allowance": 6936,
+      "other_allowances": 2895,
+      "deductions": 4731
+    },
+    "EMP016": {
+      "currency": "PKR",
+      "basic": 74000,
+      "housing_allowance": 11319,
+      "transport_allowance": 9507,
+      "other_allowances": 4499,
+      "deductions": 4282
+    },
+    "EMP017": {
+      "currency": "PKR",
+      "basic": 74000,
+      "housing_allowance": 9031,
+      "transport_allowance": 8033,
+      "other_allowances": 4981,
+      "deductions": 5032
+    },
+    "EMP018": {
+      "currency": "PKR",
+      "basic": 78000,
+      "housing_allowance": 10651,
+      "transport_allowance": 9157,
+      "other_allowances": 4551,
+      "deductions": 4627
+    },
+    "EMP019": {
+      "currency": "PKR",
+      "basic": 85000,
+      "housing_allowance": 13272,
+      "transport_allowance": 10649,
+      "other_allowances": 4040,
+      "deductions": 6667
+    },
+    "EMP020": {
+      "currency": "PKR",
+      "basic": 92000,
+      "housing_allowance": 13047,
+      "transport_allowance": 10302,
+      "other_allowances": 6874,
+      "deductions": 6010
+    },
+    "EMP021": {
+      "currency": "PKR",
+      "basic": 78000,
+      "housing_allowance": 10464,
+      "transport_allowance": 8670,
+      "other_allowances": 4507,
+      "deductions": 5545
+    },
+    "EMP022": {
+      "currency": "PKR",
+      "basic": 92000,
+      "housing_allowance": 14042,
+      "transport_allowance": 11683,
+      "other_allowances": 6806,
+      "deductions": 7067
+    },
+    "EMP023": {
+      "currency": "PKR",
+      "basic": 53000,
+      "housing_allowance": 8992,
+      "transport_allowance": 5131,
+      "other_allowances": 3712,
+      "deductions": 4199
+    },
+    "EMP024": {
+      "currency": "PKR",
+      "basic": 62000,
+      "housing_allowance": 7918,
+      "transport_allowance": 6582,
+      "other_allowances": 2742,
+      "deductions": 3249
+    },
+    "EMP025": {
+      "currency": "PKR",
+      "basic": 69000,
+      "housing_allowance": 13423,
+      "transport_allowance": 6188,
+      "other_allowances": 3466,
+      "deductions": 3488
+    },
+    "EMP026": {
+      "currency": "PKR",
+      "basic": 61000,
+      "housing_allowance": 7778,
+      "transport_allowance": 6933,
+      "other_allowances": 4850,
+      "deductions": 5142
+    },
+    "EMP027": {
+      "currency": "PKR",
+      "basic": 86000,
+      "housing_allowance": 12494,
+      "transport_allowance": 7992,
+      "other_allowances": 5031,
+      "deductions": 7668
+    },
+    "EMP028": {
+      "currency": "PKR",
+      "basic": 63000,
+      "housing_allowance": 11266,
+      "transport_allowance": 6690,
+      "other_allowances": 2579,
+      "deductions": 4902
+    },
+    "EMP029": {
+      "currency": "PKR",
+      "basic": 90000,
+      "housing_allowance": 14838,
+      "transport_allowance": 11097,
+      "other_allowances": 4005,
+      "deductions": 6728
+    },
+    "EMP030": {
+      "currency": "PKR",
+      "basic": 93000,
+      "housing_allowance": 15461,
+      "transport_allowance": 9426,
+      "other_allowances": 5148,
+      "deductions": 5540
+    }
+  }
+}

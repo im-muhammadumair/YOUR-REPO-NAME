@@ -1,0 +1,231 @@
+{
+  "year": 2026,
+  "month": 2,
+  "requests": [
+    {
+      "leave_id": "LV02001",
+      "employee_id": "EMP002",
+      "type": "Casual",
+      "from": "2026-02-03",
+      "to": "2026-02-03",
+      "days": 1,
+      "status": "Pending"
+    },
+    {
+      "leave_id": "LV02002",
+      "employee_id": "EMP002",
+      "type": "Annual",
+      "from": "2026-02-27",
+      "to": "2026-02-28",
+      "days": 2,
+      "status": "Pending"
+    },
+    {
+      "leave_id": "LV02003",
+      "employee_id": "EMP003",
+      "type": "Unpaid",
+      "from": "2026-02-09",
+      "to": "2026-02-09",
+      "days": 1,
+      "status": "Rejected"
+    },
+    {
+      "leave_id": "LV02004",
+      "employee_id": "EMP005",
+      "type": "Sick",
+      "from": "2026-02-07",
+      "to": "2026-02-08",
+      "days": 2,
+      "status": "Pending"
+    },
+    {
+      "leave_id": "LV02005",
+      "employee_id": "EMP005",
+      "type": "Annual",
+      "from": "2026-02-20",
+      "to": "2026-02-21",
+      "days": 2,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02006",
+      "employee_id": "EMP006",
+      "type": "Casual",
+      "from": "2026-02-18",
+      "to": "2026-02-18",
+      "days": 1,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02007",
+      "employee_id": "EMP007",
+      "type": "Annual",
+      "from": "2026-02-10",
+      "to": "2026-02-11",
+      "days": 2,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02008",
+      "employee_id": "EMP008",
+      "type": "Sick",
+      "from": "2026-02-20",
+      "to": "2026-02-20",
+      "days": 1,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02009",
+      "employee_id": "EMP009",
+      "type": "Annual",
+      "from": "2026-02-24",
+      "to": "2026-02-26",
+      "days": 3,
+      "status": "Pending"
+    },
+    {
+      "leave_id": "LV02010",
+      "employee_id": "EMP010",
+      "type": "Annual",
+      "from": "2026-02-16",
+      "to": "2026-02-17",
+      "days": 2,
+      "status": "Rejected"
+    },
+    {
+      "leave_id": "LV02011",
+      "employee_id": "EMP010",
+      "type": "Annual",
+      "from": "2026-02-26",
+      "to": "2026-02-28",
+      "days": 3,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02012",
+      "employee_id": "EMP012",
+      "type": "Sick",
+      "from": "2026-02-24",
+      "to": "2026-02-25",
+      "days": 2,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02013",
+      "employee_id": "EMP012",
+      "type": "Casual",
+      "from": "2026-02-15",
+      "to": "2026-02-15",
+      "days": 1,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02014",
+      "employee_id": "EMP013",
+      "type": "Unpaid",
+      "from": "2026-02-17",
+      "to": "2026-02-18",
+      "days": 2,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02015",
+      "employee_id": "EMP017",
+      "type": "Annual",
+      "from": "2026-02-23",
+      "to": "2026-02-23",
+      "days": 1,
+      "status": "Pending"
+    },
+    {
+      "leave_id": "LV02016",
+      "employee_id": "EMP017",
+      "type": "Annual",
+      "from": "2026-02-21",
+      "to": "2026-02-22",
+      "days": 2,
+      "status": "Pending"
+    },
+    {
+      "leave_id": "LV02017",
+      "employee_id": "EMP018",
+      "type": "Unpaid",
+      "from": "2026-02-06",
+      "to": "2026-02-06",
+      "days": 1,
+      "status": "Pending"
+    },
+    {
+      "leave_id": "LV02018",
+      "employee_id": "EMP019",
+      "type": "Sick",
+      "from": "2026-02-04",
+      "to": "2026-02-05",
+      "days": 2,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02019",
+      "employee_id": "EMP020",
+      "type": "Casual",
+      "from": "2026-02-21",
+      "to": "2026-02-21",
+      "days": 1,
+      "status": "Rejected"
+    },
+    {
+      "leave_id": "LV02020",
+      "employee_id": "EMP021",
+      "type": "Sick",
+      "from": "2026-02-18",
+      "to": "2026-02-18",
+      "days": 1,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02021",
+      "employee_id": "EMP023",
+      "type": "Annual",
+      "from": "2026-02-04",
+      "to": "2026-02-08",
+      "days": 5,
+      "status": "Pending"
+    },
+    {
+      "leave_id": "LV02022",
+      "employee_id": "EMP024",
+      "type": "Casual",
+      "from": "2026-02-07",
+      "to": "2026-02-07",
+      "days": 1,
+      "status": "Pending"
+    },
+    {
+      "leave_id": "LV02023",
+      "employee_id": "EMP025",
+      "type": "Annual",
+      "from": "2026-02-05",
+      "to": "2026-02-05",
+      "days": 1,
+      "status": "Rejected"
+    },
+    {
+      "leave_id": "LV02024",
+      "employee_id": "EMP026",
+      "type": "Sick",
+      "from": "2026-02-27",
+      "to": "2026-02-28",
+      "days": 2,
+      "status": "Approved"
+    },
+    {
+      "leave_id": "LV02025",
+      "employee_id": "EMP028",
+      "type": "Unpaid",
+      "from": "2026-02-02",
+      "to": "2026-02-02",
+      "days": 1,
+      "status": "Approved"
+    }
+  ]
+}

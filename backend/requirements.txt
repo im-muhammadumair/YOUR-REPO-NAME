@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-dotenv
+PyJWT
+cryptography
+python-multipart
+
+# RAG / AI
+chromadb
+google-genai
+pymupdf
